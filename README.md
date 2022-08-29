@@ -4,6 +4,7 @@
 ### 🛠 My skillset
 ___
 ![R](https://img.shields.io/badge/R-programming-blue)
+![PYTHON](https://img.shields.io/badge/-Python-blue)
 
   
 
