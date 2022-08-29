@@ -41,3 +41,6 @@ ___
   </tbody>
 </table>
 ```
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alphachodc&show_icons=true&theme=gotham" alt="alphachodc" />
